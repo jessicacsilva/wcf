@@ -1,0 +1,11 @@
+E:\Treinamentos\wcf\Wcf.Exemplo\Wcf.Exemplo.Modelo\bin\Debug\Wcf.Exemplo.Modelo.dll
+E:\Treinamentos\wcf\Wcf.Exemplo\Wcf.Exemplo.Modelo\bin\Debug\Wcf.Exemplo.Modelo.pdb
+E:\Treinamentos\wcf\Wcf.Exemplo\Wcf.Exemplo.Modelo\obj\Debug\Wcf.Exemplo.Modelo.csprojAssemblyReference.cache
+E:\Treinamentos\wcf\Wcf.Exemplo\Wcf.Exemplo.Modelo\obj\Debug\Wcf.Exemplo.Modelo.csproj.CoreCompileInputs.cache
+E:\Treinamentos\wcf\Wcf.Exemplo\Wcf.Exemplo.Modelo\obj\Debug\Wcf.Exemplo.Modelo.dll
+E:\Treinamentos\wcf\Wcf.Exemplo\Wcf.Exemplo.Modelo\obj\Debug\Wcf.Exemplo.Modelo.pdb
+C:\Users\TEMP\source\repos\Wcf.Exemplo\Wcf.Exemplo\Wcf.Exemplo.Modelo\bin\Debug\Wcf.Exemplo.Modelo.dll
+C:\Users\TEMP\source\repos\Wcf.Exemplo\Wcf.Exemplo\Wcf.Exemplo.Modelo\bin\Debug\Wcf.Exemplo.Modelo.pdb
+C:\Users\TEMP\source\repos\Wcf.Exemplo\Wcf.Exemplo\Wcf.Exemplo.Modelo\obj\Debug\Wcf.Exemplo.Modelo.csproj.CoreCompileInputs.cache
+C:\Users\TEMP\source\repos\Wcf.Exemplo\Wcf.Exemplo\Wcf.Exemplo.Modelo\obj\Debug\Wcf.Exemplo.Modelo.dll
+C:\Users\TEMP\source\repos\Wcf.Exemplo\Wcf.Exemplo\Wcf.Exemplo.Modelo\obj\Debug\Wcf.Exemplo.Modelo.pdb

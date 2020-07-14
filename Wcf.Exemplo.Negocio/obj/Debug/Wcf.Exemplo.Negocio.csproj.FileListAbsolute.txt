@@ -1,0 +1,14 @@
+c:\users\temp\source\repos\Wcf.Exemplo\Wcf.Exemplo.Negocio\bin\Debug\Wcf.Exemplo.Negocio.dll
+c:\users\temp\source\repos\Wcf.Exemplo\Wcf.Exemplo.Negocio\bin\Debug\Wcf.Exemplo.Negocio.pdb
+c:\users\temp\source\repos\Wcf.Exemplo\Wcf.Exemplo.Negocio\bin\Debug\Wcf.Exemplo.Modelo.dll
+c:\users\temp\source\repos\Wcf.Exemplo\Wcf.Exemplo.Negocio\bin\Debug\Wcf.Exemplo.Repositorio.dll
+c:\users\temp\source\repos\Wcf.Exemplo\Wcf.Exemplo.Negocio\bin\Debug\EntityFramework.dll
+c:\users\temp\source\repos\Wcf.Exemplo\Wcf.Exemplo.Negocio\bin\Debug\Wcf.Exemplo.Repositorio.pdb
+c:\users\temp\source\repos\Wcf.Exemplo\Wcf.Exemplo.Negocio\bin\Debug\Wcf.Exemplo.Repositorio.dll.config
+c:\users\temp\source\repos\Wcf.Exemplo\Wcf.Exemplo.Negocio\bin\Debug\Wcf.Exemplo.Modelo.pdb
+c:\users\temp\source\repos\Wcf.Exemplo\Wcf.Exemplo.Negocio\bin\Debug\EntityFramework.xml
+c:\users\temp\source\repos\Wcf.Exemplo\Wcf.Exemplo.Negocio\obj\Debug\Wcf.Exemplo.Negocio.csprojAssemblyReference.cache
+c:\users\temp\source\repos\Wcf.Exemplo\Wcf.Exemplo.Negocio\obj\Debug\Wcf.Exemplo.Negocio.csproj.CoreCompileInputs.cache
+c:\users\temp\source\repos\Wcf.Exemplo\Wcf.Exemplo.Negocio\obj\Debug\Wcf.Exemplo.Negocio.csproj.CopyComplete
+c:\users\temp\source\repos\Wcf.Exemplo\Wcf.Exemplo.Negocio\obj\Debug\Wcf.Exemplo.Negocio.dll
+c:\users\temp\source\repos\Wcf.Exemplo\Wcf.Exemplo.Negocio\obj\Debug\Wcf.Exemplo.Negocio.pdb
